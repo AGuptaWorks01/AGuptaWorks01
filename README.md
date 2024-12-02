@@ -1,4 +1,12 @@
 ![logo](https://github.com/GuptaCoder01/GuptaCoder01/blob/main/Gify.gif)
+
+
+
+<div align="center">
+  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+</div>
+
+###
 <h1 align="center">Hi 👋, I'm Anurag Gupta</h1>
 <h3 align="center">A passionate Full-Stack-Developer and Data analyst from India</h3>
 

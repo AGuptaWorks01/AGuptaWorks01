@@ -1,9 +1,10 @@
+<div align="center">
+
 ![logo](https://github.com/GuptaCoder01/GuptaCoder01/blob/main/Gify.gif)
 
 
 
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+  <img height="200" />
 </div>
 
 ###

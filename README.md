@@ -1,4 +1,4 @@
-![logo](https://github.com/GuptaCoder01/GuptaCoder01/blob/main/Gify.gif`align="center`)
+![logo](https://github.com/GuptaCoder01/GuptaCoder01/blob/main/Gify.gif)
 <h1 align="center">Hi 👋, I'm Anurag Gupta</h1>
 <h3 align="center">A passionate Data analyst and Full-Stack-Developer from India</h3>
 

@@ -1,10 +1,6 @@
 <div align="center">
-
+  
 ![logo](https://github.com/GuptaCoder01/GuptaCoder01/blob/main/Gify.gif)
-
-
-
-  <img height="200" />
 </div>
 
 ###

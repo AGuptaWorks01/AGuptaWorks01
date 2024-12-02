@@ -1,4 +1,4 @@
-![logo  align="center"](https://github.com/GuptaCoder01/GuptaCoder01/blob/main/Gify.gif)
+![logo] <p align="center">(https://github.com/GuptaCoder01/GuptaCoder01/blob/main/Gify.gif)</p>
 <h1 align="center">Hi 👋, I'm Anurag Gupta</h1>
 <h3 align="center">A passionate Data analyst and Full-Stack-Developer from India</h3>
 
@@ -17,8 +17,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Guptacoder01&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Guptacoder01&limit=5&theme=dark&combine_all_yearly_contributions=true)

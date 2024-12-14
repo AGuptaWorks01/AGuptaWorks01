@@ -20,10 +20,6 @@
 
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Guptacoder01&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Guptacoder01&icon=2&color=0)](https://visitcount.itsvg.in)
 
